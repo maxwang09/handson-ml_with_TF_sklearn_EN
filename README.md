@@ -1,3 +1,7 @@
+PDF： https://share.weiyun.com/585a9eb697f11ca5f9a168e1785a8bdb
+
+AZW3： https://github.com/iamseancheney/pythonbooks/blob/master/Hands-On%20Machine%20Learning%20with%20-%20Aurelien%20Geron.azw3
+
 Machine Learning Notebooks
 ==========================
 
